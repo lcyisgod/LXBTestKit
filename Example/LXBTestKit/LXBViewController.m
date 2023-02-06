@@ -8,6 +8,8 @@
 
 #import "LXBViewController.h"
 
+#import <LXBTestKit/FirstViewController.h>
+
 @interface LXBViewController ()
 
 @end
