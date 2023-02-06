@@ -19,6 +19,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.title = @"个人的私有库";
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
